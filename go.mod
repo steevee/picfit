@@ -1,4 +1,4 @@
-module github.com/thoas/picfit
+module github.com/steevee/picfit
 
 require (
 	cloud.google.com/go v0.39.0 // indirect
@@ -65,3 +65,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/thoas/picfit v0.8.0 => github.com/steevee/picfit v0.8.1
