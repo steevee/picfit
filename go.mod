@@ -1,4 +1,4 @@
-module github.com/steevee/picfit
+module github.com/thoas/picfit
 
 require (
 	cloud.google.com/go v0.39.0 // indirect
